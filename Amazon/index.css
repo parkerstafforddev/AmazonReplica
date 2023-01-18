@@ -1,0 +1,148 @@
+* {
+    font-family: Arial,sans-serif;
+}
+
+
+
+
+.login {
+    
+    padding-top: 10px;
+    margin: 36%;
+    margin-top: 10%;
+    margin-bottom: 1%;
+    border: solid lightgray 0.5px;
+    font-family: Arial,sans-serif;
+    width: 500px;
+
+}
+
+.new {
+    text-align: center;
+    padding: 200px;
+    border: 10px;
+    border-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+
+
+
+
+
+
+
+
+
+footer {
+    text-align: center;
+    border-color: black;
+    
+}
+
+
+h1 {
+    padding-right: 240px;
+    font-style: none;
+    font-weight: normal;
+}
+
+
+#continue {
+    margin: top 20px;
+    background-color: rgb(239, 199,76);
+    border-radius: 2px;
+    width: 350px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+
+#email {
+    border-radius: 1px;
+    width: 350px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+
+#password {
+    border-radius: 1px;
+    width: 350px;
+    margin-bottom: 20px;
+    padding: 10px;
+    
+}
+
+
+#forgot {
+    paddi
+}
+
+
+#help {
+    
+    
+}
+
+#newbutton {
+    margin: top 20px;
+    background-color: solid lightgray;
+    border-radius: 2px;
+    width: 50%;
+    margin-bottom: 20px;
+    width: 350px;
+}
+
+
+#newaccount::before{
+    content:" " ;
+    display: block;
+    width: 90px;
+    height: 2px;
+    background: rgb(145, 144, 144);
+    position: absolute;
+    left: 540px;
+    top:395px;
+}
+
+#newaccount {
+    font-size: 20px;
+    margin-top: 50px;
+    margin-bottom: none;
+    content:" ";
+    display: block;
+    color:rgb(145, 144, 144)
+}
+
+
+#newaccount::after {
+    content:" ";
+    display: block;
+    width: 90px;
+    height:2px;
+    background: rgb(145, 144, 144);
+    position:absolute;
+    left: 540px;
+    top:395px
+
+}
+
+body {
+    text-align: center;
+}
+
+
+#enterpass {
+    
+    padding-right: 160px;
+    
+    position:
+
+}
+
+#emailz {
+    padding-right: 100px;
+    
+    position: left;
+}
